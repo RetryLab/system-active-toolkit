@@ -12,7 +12,8 @@
 	},
 	"author": "",
 	"dependencies": {
-		"underscore": "*"
+		"underscore": "*",
+		"async": "*"
 	},
 	"license": "BSD-2-Clause"
 }
