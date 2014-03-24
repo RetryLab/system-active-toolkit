@@ -1,4 +1,5 @@
 module.exports = {
+	'DB_PATH': '/tmp/sat.db',
 	'FILE_NET_SNMP': '/proc/net/snmp',
 	'FILE_NET_TCP': '/proc/net/tcp',
 	'FILE_NET_NETSTAT': '/proc/net/netstat',
